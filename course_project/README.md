@@ -17,4 +17,4 @@
 
 ### Результаты
 
-![](course_project/result.png)
+![](result.png)
